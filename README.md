@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# 📚 Flashcards de Inglés
+📚 Flashcards de Inglés
 
 Aplicación web para practicar inglés mediante distintos modos de aprendizaje:
 

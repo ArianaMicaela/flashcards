@@ -57,7 +57,7 @@ function renderOpciones(opciones) {
         btn.textContent = op;
 
         btn.onclick = () => {
-            if (bloqueado) return; // 👈 evita múltiples clicks
+            if (bloqueado) return; // evitar múltiples clicks
             bloqueado = true;
             verificar(op);
         };

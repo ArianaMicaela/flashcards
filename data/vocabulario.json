@@ -1,0 +1,482 @@
+[
+  {
+    "english": "Supply",
+    "spanish": "Suministro"
+  },
+  {
+    "english": "Management",
+    "spanish": "Gestión"
+  },
+  {
+    "english": "Storage",
+    "spanish": "Almacenamiento"
+  },
+  {
+    "english": "Key",
+    "spanish": "Clave"
+  },
+  {
+    "english": "Goods",
+    "spanish": "Mercancías"
+  },
+  {
+    "english": "Warehousing",
+    "spanish": "Almacenamiento"
+  },
+  {
+    "english": "Facility",
+    "spanish": "Instalación"
+  },
+  {
+    "english": "Shipments",
+    "spanish": "Cargamento/Envíos"
+  },
+  {
+    "english": "Raw Materials",
+    "spanish": "Materiales Primas"
+  },
+  {
+    "english": "Improve",
+    "spanish": "Mejorar"
+  },
+  {
+    "english": "Goods and Services",
+    "spanish": "Bienes y Servicios"
+  },
+  {
+    "english": "Delays",
+    "spanish": "Demoras"
+  },
+  {
+    "english": "Goals",
+    "spanish": "Objetivos"
+  },
+  {
+    "english": "In order to",
+    "spanish": "Para"
+  },
+  {
+    "english": "Budget",
+    "spanish": "Presupuesto"
+  },
+  {
+    "english": "Provide",
+    "spanish": "Proveer"
+  },
+  {
+    "english": "Regarding",
+    "spanish": "Con respecto a"
+  },
+  {
+    "english": "However",
+    "spanish": "Sin embargo"
+  },
+  {
+    "english": "Return on investment",
+    "spanish": "Retorno de la inversión"
+  },
+  {
+    "english": "Achieve",
+    "spanish": "Lograr"
+  },
+  {
+    "english": "Development",
+    "spanish": "Desarrollo"
+  },
+  {
+    "english": "Further",
+    "spanish": "Adicional"
+  },
+  {
+    "english": "Schedule",
+    "spanish": "Programar"
+  },
+  {
+    "english": "Look forward to",
+    "spanish": "Estar deseoso de algo"
+  },
+  {
+    "english": "Support",
+    "spanish": "Apoyo"
+  },
+  {
+    "english": "Trade",
+    "spanish": "Comercio"
+  },
+  {
+    "english": "Enable ",
+    "spanish": "Permitir"
+  },
+  {
+    "english": "Allow",
+    "spanish": "Permitir"
+  },
+  {
+    "english": "Foster",
+    "spanish": "Fomentar"
+  },
+  {
+    "english": "Such as",
+    "spanish": "Tales como"
+  },
+  {
+    "english": "Perishable",
+    "spanish": "Perecedero"
+  },
+  {
+    "english": "Ensure",
+    "spanish": "Asegurar"
+  },
+  {
+    "english": "Reliable",
+    "spanish": "Confiable"
+  },
+  {
+    "english": "Revenue",
+    "spanish": "Facturación"
+  },
+  {
+    "english": "Employment",
+    "spanish": "Empleo"
+  },
+  {
+    "english": "Overall",
+    "spanish": "En general"
+  },
+  {
+    "english": "Trends",
+    "spanish": "Tendencias"
+  },
+  {
+    "english": "Outsource",
+    "spanish": "Tercerizar"
+  },
+  {
+    "english": "Single",
+    "spanish": "Único"
+  },
+  {
+    "english": "Shift",
+    "spanish": "Cambio"
+  },
+  {
+    "english": "Become",
+    "spanish": "Convertirse en"
+  },
+  {
+    "english": "Comprehensive",
+    "spanish": "Integral"
+  },
+  {
+    "english": "Customer",
+    "spanish": "Cliente"
+  },
+  {
+    "english": "Profit",
+    "spanish": "Ganancia"
+  },
+  {
+    "english": "Be able to",
+    "spanish": "Ser capaz de"
+  },
+  {
+    "english": "A range of",
+    "spanish": "Una gama de"
+  },
+  {
+    "english": "Avoid",
+    "spanish": "Evitar"
+  },
+  {
+    "english": "Due to",
+    "spanish": "Debido a"
+  },
+  {
+    "english": "Look for",
+    "spanish": "Buscar"
+  },
+  {
+    "english": "Quite",
+    "spanish": "Bastante"
+  },
+  {
+    "english": "Between",
+    "spanish": "Entre"
+  },
+  {
+    "english": "Purpose",
+    "spanish": "Propósito"
+  },
+  {
+    "english": "Increase",
+    "spanish": "Aumentar"
+  },
+  {
+    "english": "Shorten",
+    "spanish": "Acortar"
+  },
+  {
+    "english": "Decrease",
+    "spanish": "Reducir"
+  },
+  {
+    "english": "Insurance",
+    "spanish": "Seguro"
+  },
+  {
+    "english": "Mainly",
+    "spanish": "Principalmente"
+  },
+  {
+    "english": "Network",
+    "spanish": "Red"
+  },
+  {
+    "english": "High",
+    "spanish": "Alto"
+  },
+  {
+    "english": "Consumer goods",
+    "spanish": "Bienes de consumo"
+  },
+  {
+    "english": "Developed ",
+    "spanish": "Desarrollado"
+  },
+  {
+    "english": "Environment",
+    "spanish": "Medio ambiente"
+  },
+  {
+    "english": "Even",
+    "spanish": "Incluso"
+  },
+  {
+    "english": "Increasing",
+    "spanish": "Creciente"
+  },
+  {
+    "english": "Packaging",
+    "spanish": "Embalaje"
+  },
+  {
+    "english": "Truck",
+    "spanish": "Camión"
+  },
+  {
+    "english": "Road",
+    "spanish": "Camino"
+  },
+  {
+    "english": "Issues",
+    "spanish": "Cuestiones"
+  },
+  {
+    "english": "Facilities",
+    "spanish": "Instalaciones"
+  },
+  {
+    "english": "Lead to",
+    "spanish": "Llevar a"
+  },
+  {
+    "english": "Retail",
+    "spanish": "Venta minorista"
+  },
+  {
+    "english": "Rates",
+    "spanish": "Tasas"
+  },
+  {
+    "english": "Grow",
+    "spanish": "Crecer"
+  },
+  {
+    "english": "Sales",
+    "spanish": "Ventas"
+  },
+  {
+    "english": "Amount",
+    "spanish": "cantidad"
+  },
+  {
+    "english": "Rely on",
+    "spanish": "Depender de"
+  },
+  {
+    "english": "Average",
+    "spanish": "Promedio"
+  },
+  {
+    "english": "Wholesale",
+    "spanish": "Venta mayorista"
+  },
+  {
+    "english": "In-bulk",
+    "spanish": "A granel"
+  },
+  {
+    "english": "Adventage",
+    "spanish": "Ventaja"
+  },
+  {
+    "english": "Through",
+    "spanish": "A través de"
+  },
+  {
+    "english": "Assets",
+    "spanish": "Activos"
+  },
+  {
+    "english": "Track",
+    "spanish": "Monitorear"
+  },
+  {
+    "english": "Performance",
+    "spanish": "Desempeño"
+  },
+  {
+    "english": "Tags",
+    "spanish": "Etiquetas"
+  },
+  {
+    "english": "Growth",
+    "spanish": "Crecimiento"
+  },
+  {
+    "english": "Lack of",
+    "spanish": "Falta de"
+  },
+  {
+    "english": "Available",
+    "spanish": "Disponible"
+  },
+  {
+    "english": "Decision – making",
+    "spanish": "Toma de decisiones"
+  },
+  {
+    "english": "Enhance",
+    "spanish": "Aumentar"
+  },
+  {
+    "english": "GDP",
+    "spanish": "Producto bruto interno"
+  },
+  {
+    "english": "Knowledge",
+    "spanish": "Conocimiento"
+  },
+  {
+    "english": "Improvements",
+    "spanish": "Mejoras"
+  },
+  {
+    "english": "Goals - Unidad 9",
+    "spanish": "Metas"
+  },
+  {
+    "english": "Assess - Unidad 9",
+    "spanish": "Evaluar"
+  },
+  {
+    "english": "Fees",
+    "spanish": "Honorarios"
+  },
+  {
+    "english": "Taxes ",
+    "spanish": "Impuestos"
+  },
+  {
+    "english": "Comply with ",
+    "spanish": "Cumplir con"
+  },
+  {
+    "english": "Rise",
+    "spanish": "Subir"
+  },
+  {
+    "english": "Instead of",
+    "spanish": "En lugar de"
+  },
+  {
+    "english": "Cold chain",
+    "spanish": "Cadena de frío"
+  },
+  {
+    "english": "Fix",
+    "spanish": "Arreglar"
+  },
+  {
+    "english": "Voyage",
+    "spanish": "Viaje"
+  },
+  {
+    "english": "Vessel",
+    "spanish": "Buque"
+  },
+  {
+    "english": "Sensitive",
+    "spanish": "Sensible"
+  },
+  {
+    "english": "Picking and packing",
+    "spanish": "Preparación de pedidos y embalajes"
+  },
+  {
+    "english": "Sorted",
+    "spanish": "Clasificado"
+  },
+  {
+    "english": "Weight",
+    "spanish": "Peso"
+  },
+  {
+    "english": "Land",
+    "spanish": "Tierra"
+  },
+  {
+    "english": "Sea",
+    "spanish": "Mar"
+  },
+  {
+    "english": "Serviceability",
+    "spanish": "Utilidad"
+  },
+  {
+    "english": "Unit load device (ULD)",
+    "spanish": "Elemento unitario de carga"
+  },
+  {
+    "english": "Damage",
+    "spanish": "Daño"
+  },
+  {
+    "english": "Safety",
+    "spanish": "Seguridad"
+  },
+  {
+    "english": "Loading",
+    "spanish": "Carga"
+  },
+  {
+    "english": "Unloading",
+    "spanish": "Descarga"
+  },
+  {
+    "english": "Within",
+    "spanish": "Dentro de"
+  },
+  {
+    "english": "Allowable",
+    "spanish": "Permitido"
+  },
+  {
+    "english": "Perform",
+    "spanish": "Realizar"
+  },
+  {
+    "english": "Eithe ... or ...",
+    "spanish": "Ya sea"
+  }
+]

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flashcards</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/style.css">
+    <script defer src="js/flashcards.js"></script>
+</head>
+<body class='flashcards'>
+
+<div class="container">
+
+    <h1 class="title_flashcard">FlashCards </h1>
+
+    <div class="card">
+
+        <p class="english_flashcard" id="english"></p>
+        
+        <button class="btn_flashcard" onclick="mostrar()">
+            Mostrar respuesta
+        </button>
+
+        <p class="spanish_flashcard" id="respuesta" style="display:none"></p>
+
+    </div>
+
+    <a class="btn" style="cursor: pointer;" onclick="location.reload()">
+        Siguiente
+    </a>
+
+    <!-- Botón para volver al menú principal -->
+    <a class="btn" href="C:\Users\Ari\Downloads\FlashcardsN\index.html" >
+        Volver al menú Principal
+    </a>
+
+</div>
+
+<footer>
+    <p>&copy; 2026 La mejor hermana. Todos los derechos reservados.</p>
+    <p>
+        Sígueme en 
+        <a href="https://instagram.com/Ariianamicaelat" target="_blank" rel="noopener noreferrer">Instagram</a>
+    </p>
+</footer>
+
+<script>
+
+function mostrar() {
+    document.getElementById("respuesta").style.display = "block";
+}
+
+</script>
+</body>
+
+</html>
